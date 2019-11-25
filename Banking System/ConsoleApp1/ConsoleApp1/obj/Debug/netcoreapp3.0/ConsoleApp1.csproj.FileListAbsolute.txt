@@ -1,0 +1,22 @@
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Documents\NOTES\Year3 NOTES\Semester1\Net Application Development\218005083\Banking System\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
